@@ -1,0 +1,4 @@
+.superdesign/
+.*.png
+.*.jpg
+package*.json
